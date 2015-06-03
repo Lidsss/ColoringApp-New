@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		271D67991B1DF4D100C82120 /* OpenVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 271D67981B1DF4D100C82120 /* OpenVC.swift */; };
 		271D679F1B1DFD4F00C82120 /* FirstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 271D679E1B1DFD4F00C82120 /* FirstVC.swift */; };
+		2752E81B1B1F4186006C275E /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2752E81A1B1F4186006C275E /* CollectionViewCell.swift */; };
+		2752E81D1B1F419A006C275E /* PaintingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2752E81C1B1F419A006C275E /* PaintingViewController.swift */; };
+		2752E81F1B1F4201006C275E /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2752E81E1B1F4201006C275E /* SettingsViewController.swift */; };
 		612E2DDA1B1CB3D2001F3897 /* DAO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 612E2DD81B1CB3D2001F3897 /* DAO.swift */; };
 		612E2DDB1B1CB3D2001F3897 /* Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 612E2DD91B1CB3D2001F3897 /* Sequence.swift */; };
 		613A60451B0E0CB200D12201 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 613A60441B0E0CB200D12201 /* AppDelegate.swift */; };
@@ -16,7 +19,6 @@
 		613A604F1B0E0CB200D12201 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 613A604E1B0E0CB200D12201 /* Images.xcassets */; };
 		613A60521B0E0CB200D12201 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 613A60501B0E0CB200D12201 /* LaunchScreen.xib */; };
 		6189F6531B1BA0E600382320 /* Hibiscus.png in Resources */ = {isa = PBXBuildFile; fileRef = 6189F6521B1BA0E600382320 /* Hibiscus.png */; };
-		6189F6551B1BB6D700382320 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6189F6541B1BB6D700382320 /* CollectionViewCell.swift */; };
 		6189FB631B1C920900382320 /* iCarousel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6189FB621B1C920900382320 /* iCarousel.m */; };
 		61AF16231B14C205005DEF54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 61AF16221B14C205005DEF54 /* Foundation.framework */; };
 		61AF16251B14C20C005DEF54 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 61AF16241B14C20C005DEF54 /* CoreGraphics.framework */; };
@@ -25,7 +27,6 @@
 		61AF162B1B14C23C005DEF54 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 61AF162A1B14C23C005DEF54 /* QuartzCore.framework */; };
 		61AF162D1B14C26F005DEF54 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 61AF162C1B14C26F005DEF54 /* Accelerate.framework */; };
 		61AF16331B14C858005DEF54 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61AF16321B14C858005DEF54 /* SettingsViewController.swift */; };
-		61AF16351B14C8A6005DEF54 /* PaintingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61AF16341B14C8A6005DEF54 /* PaintingViewController.swift */; };
 		61AF163A1B1572E5005DEF54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61AF16381B1572E5005DEF54 /* Main.storyboard */; };
 		61AF163E1B15780B005DEF54 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 61AF163D1B15780B005DEF54 /* Default-568h@2x.png */; };
 		ADDCB11F1B189241002CC59B /* CollectionViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDCB11E1B189241002CC59B /* CollectionViewTest.swift */; };
@@ -44,6 +45,9 @@
 /* Begin PBXFileReference section */
 		271D67981B1DF4D100C82120 /* OpenVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpenVC.swift; sourceTree = "<group>"; };
 		271D679E1B1DFD4F00C82120 /* FirstVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FirstVC.swift; path = "../../iCarousel-master-2/Examples/Swift Example/SwiftExample/FirstVC.swift"; sourceTree = "<group>"; };
+		2752E81A1B1F4186006C275E /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		2752E81C1B1F419A006C275E /* PaintingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaintingViewController.swift; sourceTree = "<group>"; };
+		2752E81E1B1F4201006C275E /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsViewController.swift; path = "../../../Downloads/ColoringApp New/SettingsViewController.swift"; sourceTree = "<group>"; };
 		612E2DD81B1CB3D2001F3897 /* DAO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DAO.swift; sourceTree = "<group>"; };
 		612E2DD91B1CB3D2001F3897 /* Sequence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sequence.swift; sourceTree = "<group>"; };
 		613A603F1B0E0CB200D12201 /* ColoringApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColoringApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -55,7 +59,6 @@
 		613A60571B0E0CB200D12201 /* ColoringAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColoringAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		613A605C1B0E0CB200D12201 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6189F6521B1BA0E600382320 /* Hibiscus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hibiscus.png; sourceTree = "<group>"; };
-		6189F6541B1BB6D700382320 /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		6189FB601B1C920800382320 /* ColoringApp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ColoringApp-Bridging-Header.h"; sourceTree = "<group>"; };
 		6189FB611B1C920900382320 /* iCarousel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCarousel.h; sourceTree = "<group>"; };
 		6189FB621B1C920900382320 /* iCarousel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iCarousel.m; sourceTree = "<group>"; };
@@ -66,7 +69,6 @@
 		61AF162A1B14C23C005DEF54 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		61AF162C1B14C26F005DEF54 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		61AF16321B14C858005DEF54 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsViewController.swift; path = ../SettingsViewController.swift; sourceTree = "<group>"; };
-		61AF16341B14C8A6005DEF54 /* PaintingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaintingViewController.swift; path = ../PaintingViewController.swift; sourceTree = "<group>"; };
 		61AF16391B1572E5005DEF54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = ColoringApp/Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		61AF163D1B15780B005DEF54 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		ADDCB11E1B189241002CC59B /* CollectionViewTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewTest.swift; sourceTree = "<group>"; };
@@ -175,12 +177,13 @@
 		ADBFD14B1B0E2E0400EAF633 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				61AF16341B14C8A6005DEF54 /* PaintingViewController.swift */,
 				61AF16321B14C858005DEF54 /* SettingsViewController.swift */,
+				2752E81E1B1F4201006C275E /* SettingsViewController.swift */,
+				2752E81C1B1F419A006C275E /* PaintingViewController.swift */,
 				ADDCB11E1B189241002CC59B /* CollectionViewTest.swift */,
+				2752E81A1B1F4186006C275E /* CollectionViewCell.swift */,
 				271D679E1B1DFD4F00C82120 /* FirstVC.swift */,
 				271D67981B1DF4D100C82120 /* OpenVC.swift */,
-				6189F6541B1BB6D700382320 /* CollectionViewCell.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -298,8 +301,8 @@
 			files = (
 				271D679F1B1DFD4F00C82120 /* FirstVC.swift in Sources */,
 				612E2DDB1B1CB3D2001F3897 /* Sequence.swift in Sources */,
-				6189F6551B1BB6D700382320 /* CollectionViewCell.swift in Sources */,
-				61AF16351B14C8A6005DEF54 /* PaintingViewController.swift in Sources */,
+				2752E81B1B1F4186006C275E /* CollectionViewCell.swift in Sources */,
+				2752E81D1B1F419A006C275E /* PaintingViewController.swift in Sources */,
 				6189FB631B1C920900382320 /* iCarousel.m in Sources */,
 				ADDCB11F1B189241002CC59B /* CollectionViewTest.swift in Sources */,
 				613A60481B0E0CB200D12201 /* ColoringApp.xcdatamodeld in Sources */,
@@ -307,6 +310,7 @@
 				613A60451B0E0CB200D12201 /* AppDelegate.swift in Sources */,
 				61AF16331B14C858005DEF54 /* SettingsViewController.swift in Sources */,
 				271D67991B1DF4D100C82120 /* OpenVC.swift in Sources */,
+				2752E81F1B1F4201006C275E /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
