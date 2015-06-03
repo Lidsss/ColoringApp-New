@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8FC6E6EA-C5BE-45CD-AC27-89FE6A31CD6B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ColoringApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B7B6EB8CF28FE682BA6655DD80FB3D71B52B0CF</key>
+		<string>https://github.com/Lidsss/ColoringApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ColoringApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B7B6EB8CF28FE682BA6655DD80FB3D71B52B0CF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Lidsss/ColoringApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B7B6EB8CF28FE682BA6655DD80FB3D71B52B0CF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B7B6EB8CF28FE682BA6655DD80FB3D71B52B0CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ColoringApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
